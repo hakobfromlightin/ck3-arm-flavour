@@ -39103,85 +39103,157 @@ e_persia = {
 
 			capital = c_amida
 
+            cultural_names = {
+                name_list_armenian = cn_aghdznik
+            }
+
 			c_amida = {
 				color = { 241 100 15 }
+
+				cultural_names = {
+                    name_list_armenian = cn_amid
+                }
 
 				b_amid = {
 					province = 4867
 
 					color = { 241 100 15 }
+
+					cultural_names = {
+                        name_list_armenian = cn_amid
+                    }
 				}
 				b_zermion = {
 					province = 4866
 
 					color = { 241 100 15 }
+
+					cultural_names = {
+                        name_list_armenian = cn_jermuk
+                    }
 				}
 				b_as-suwaida = {
 					province = 4868
 
 					color = { 241 100 15 }
+
+					cultural_names = {
+                        name_list_armenian = cn_constantina
+                    }
 				}
 				b_tall_mauzan = {
 					province = 4871
 
 					color = { 241 100 15 }
+
+					cultural_names = {
+                        name_list_armenian = cn_tela
+                    }
 				}
 			}
 			c_tall_basma = {
 				color = { 242 115 38 }
 
+				cultural_names = {
+                    name_list_armenian = cn_korduk
+                }
+
 				b_tall_basma = {
 					province = 4855
 
 					color = { 242 115 38 }
+
+					cultural_names = {
+                        name_list_armenian = cn_bnabegh
+                    }
 				}
 				b_hisn_kaifa = {
 					province = 4847
 
 					color = { 242 115 38 }
+
+					cultural_names = {
+                        name_list_armenian = cn_pinaka
+                    }
 				}
 			}
 			c_hakkari = {
 				color = { 243 131 62 }
 
+				cultural_names = {
+                    name_list_armenian = cn_korchayk
+                }
+
 				b_hakkari = {
 					province = 4815
 
 					color = { 243 131 62 }
+
+					cultural_names = {
+                        name_list_armenian = cn_korchayk
+                    }
 				}
 				b_baqirda = {
 					province = 4813
 
 					color = { 243 131 62 }
+
+					cultural_names = {
+                        name_list_armenian = cn_bzabede
+                    }
 				}
 				b_tamanin = {
 					province = 4814
 
 					color = { 243 131 62 }
+
+					cultural_names = {
+                        name_list_armenian = cn_tman
+                    }
 				}
 				b_saird = {
 					province = 4816
 
 					color = { 243 131 62 }
+
+					cultural_names = {
+                        name_list_armenian = cn_moks
+                    }
 				}
 				b_juza = {
 					province = 4817
 
 					color = { 243 131 62 }
+
+					cultural_names = {
+                        name_list_armenian = cn_agarak
+                    }
 				}
 			}
 			c_mayyafariqin = {
 				color = { 216 90 13 }
 
+				cultural_names = {
+                    name_list_armenian = cn_tigranakert
+                }
+
 				b_mayyafariqin = {
 					province = 4859
 
 					color = { 216 90 13 }
+
+					cultural_names = {
+                        name_list_armenian = cn_tigranakert
+                    }
 				}
 				b_tall_fafan = {
 					province = 4857
 
 					color = { 216 90 13 }
+
+					cultural_names = {
+                        name_list_armenian = cn_jerm
+                    }
 				}
 				b_arzan = {
 					province = 4858
@@ -39192,35 +39264,63 @@ e_persia = {
 					province = 4860
 
 					color = { 216 90 13 }
+
+					cultural_names = {
+                        name_list_armenian = cn_zorbandon
+                    }
 				}
 			}
 			c_bakriya = {
 				color = { 192 80 12 }
 
+				cultural_names = {
+                    name_list_armenian = cn_sasoun
+                }
+
 				b_hani = {
 					province = 4861
 
 					color = { 192 80 12 }
+
+					cultural_names = {
+                        name_list_armenian = cn_np_rkert
+                    }
 				}
 				b_hisn_di-l-qarnain = {
 					province = 4862
 
 					color = { 192 80 12 }
+
+					cultural_names = {
+                        name_list_armenian = cn_kghimar
+                    }
 				}
 				b_qulb = {
 					province = 4864
 
 					color = { 192 80 12 }
+
+					cultural_names = {
+                        name_list_armenian = cn_koghb
+                    }
 				}
 				b_erkne = {
 					province = 4865
 
 					color = { 192 80 12 }
+
+					cultural_names = {
+                        name_list_armenian = cn_arkathiokert
+                    }
 				}
 				b_shimshat = {
 					province = 4863
 
 					color = { 192 80 12 }
+
+					cultural_names = {
+                        name_list_armenian = cn_paghin
+                    }
 				}
 			}
 		}
@@ -39279,66 +39379,122 @@ e_persia = {
 
 			capital = c_irbil
 
+			cultural_names = {
+                name_list_armenian = cn_adiabaden
+            }
+
 			c_irbil = {
 				color = { 181 60 10 }
+
+				cultural_names = {
+                    name_list_armenian = cn_arbela
+                }
 
 				b_irbil = {
 					province = 4777
 
 					color = { 181 60 10 }
+
+					cultural_names = {
+                        name_list_armenian = cn_arbela
+                    }
 				}
 				b_al-haditha = {
 					province = 4808
 
 					color = { 181 60 10 }
+
+					cultural_names = {
+                        name_list_armenian = cn_musasir
+                    }
 				}
 				b_as-sinn = {
 					province = 4809
 
 					color = { 181 60 10 }
+
+					cultural_names = {
+                        name_list_armenian = cn_larissa
+                    }
 				}
 			}
 			c_kurdistan = {
 				color = { 188 80 34 }
 
+				cultural_names = {
+                    name_list_armenian = cn_shirakan
+                }
+
 				b_tall_haftun = {
 					province = 4774
 
 					color = { 188 80 34 }
+
+					cultural_names = {
+                        name_list_armenian = cn_smbataberd
+                    }
 				}
 				b_khuftiyan = {
 					province = 4773
 
 					color = { 188 80 34 }
+
+					cultural_names = {
+                        name_list_armenian = cn_kartunik
+                    }
 				}
 				b_shaqlabadh = {
 					province = 4775
 
 					color = { 188 80 34 }
+
+					cultural_names = {
+                        name_list_armenian = cn_mahkert
+                    }
 				}
 				b_bamardani = {
 					province = 4776
 
 					color = { 188 80 34 }
+
+					cultural_names = {
+                        name_list_armenian = cn_aghbak
+                    }
 				}
 			}
 			c_shahrazur = {
 				color = { 195 99 58 }
 
+				cultural_names = {
+                    name_list_armenian = cn_sharazor
+                }
+
 				b_shahrazur = {
 					province = 4780
 
 					color = { 195 99 58 }
+
+					cultural_names = {
+                        name_list_armenian = cn_sharazor
+                    }
 				}
 				b_khuftidkan = {
 					province = 4778
 
 					color = { 195 99 58 }
+
+					cultural_names = {
+                        name_list_armenian = cn_verin_sharazor
+                    }
 				}
 				b_tiranshah = {
 					province = 4779
 
 					color = { 195 99 58 }
+
+					cultural_names = {
+                        name_list_armenian = cn_tigranashen
+                    }
 				}
 			}
 		}
