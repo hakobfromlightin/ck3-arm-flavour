@@ -1626,6 +1626,58 @@
  cn_erivan:0 "Erivan"
  cn_erivan_adj:0 "Erivani"
  
+
+ #Armenia - Mesopotamia
+ cn_tsopk:0 "Tsopk"
+ 
+ #Armenia - Mesopotamia - Theodosopolis
+ cn_jerma:0 "Jerma"
+ 
+ #Armenia - Mesopotamia - Melitene
+ cn_arqayun:0 "Arqayun"
+ cn_arke:0 "Arke"
+ 
+ #Armenia - Mesopotamia - Mesopotamia
+ cn_taron:0 "Taron"
+ 
+ #Armenia - Mesopotamia
+ cn_kharberd:0 "Kharberd"
+ cn_kamakh:0 "Kamakh"
+ cn_koghoberd:0 "Koghoberd"
+ cn_balahovit:0 "Balahovit"
+ 
+ # Armenia - Vaspurakan - Vaspurakan
+ cn_arest:0 "Arest"
+ 
+ # Armenia - Vaspurakan - Turuberan
+ cn_voghakan:0 "Voghakan"
+ cn_khnunis:0 "Khnunis"
+ 
+ # Armenia - Greater Armenia - Hayk
+ cn_ashotsk:0 "Ashotsk"
+ 
+ # Armenia - Greater Armenia - Bagrewand
+ cn_tsolakert:0 "Tsolakert"
+ cn_zarehavan:0 "Zarehavan"
+ 
+ # Armenia - Greater Armenia - Vanand
+ cn_shirakavan:0 "Shirakavan"
+ cn_basen:0 "Basen"
+ 
+ # Armenia - Greater Armenia - Khachen
+ cn_artsakh:0 "Artsakh"
+ cn_tigranakert:0 "Tigranakert"
+ cn_tavush:0 "Tavush"
+ cn_gardman:0 "Gardman"
+ cn_sotk:0 "Sotk"
+ cn_amaras:0 "Amaras"
+ 
+ # Armenia - Greater Armenia - Seunik
+ cn_meghri:0 "Meghri"
+ 
+ # Armenia - Greater Armenia - Dvin
+ cn_nakhijevan:0 "Nakhijevan"
+ 
  #Italy
  cn_sardenya_i_corsega:0 "Sardenya i Còrsega"
  cn_sardenya_i_corsega_adj:0 "Corso-Sardenyian"
