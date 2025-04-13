@@ -1801,6 +1801,71 @@
  cn_shakashen:0 "Shakashen"
  cn_gvgav:0 "Gvgav"
  
+ #Daylam - Azerbaijan - Tabriz
+ cn_atrpatakan:0 "Atrpatakan"
+ cn_vararat:0 "Vararat"
+ cn_tavrezh:0 "Tavrezh"
+ cn_khurakan:0 "Khurakan"
+ cn_kuser:0 "Kuser"
+ cn_aharakan:0 "Aharakan"
+ cn_parspatunik:0 "Parspatunik"
+ 
+ #Daylam - Azerbaijan - Talish
+ cn_bagavan:0 "Bagavan"
+ cn_vormizd_perozh:0 "Vormizd Perozh"
+ 
+ #Daylam - Azerbaijan - Ardabil
+ cn_katshan:0 "Katshan"
+ cn_artavet:0 "Artavet"
+ cn_khalkhunik:0 "Khalkhunik"
+ cn_varzhakan:0 "Varzhakan"
+ cn_bahlakan:0 "Bahlakan"
+ 
+ #Daylam - Azerbaijan - Maragha
+ cn_tchakartu:0 "Tchakartu"
+ cn_phraaspa:0 "Phraaspa"
+ cn_getahovit:0 "Getahovit"
+ cn_gandzak_shahastan:0 "Gandzak Shahastan"
+ cn_arevatsots:0 "Arevatsots"
+ cn_karaptu:0 "Karaptu"
+ 
+ #Daylam - Azerbaijan - Bailaqan
+ cn_mateank_:0 "Mateank'"
+ cn_izirtu:0 "Izirtu"
+ cn_sev_darpas:0 "Sev Darpas"
+ cn_zinta:0 "Zinta"
+ 
+ #Daylam - Azerbaijan - Urmiya
+ cn_parkahayk_:0 "Parkahayk'"
+ cn_urmi:0 "Urmi"
+ cn_araskh:0 "Araskh"
+ cn_her:0 "Her"
+ 
+ #Daylam - Shirvan - Shirvan
+ cn_aghvank_:0 "Aghvank'"
+ cn_kaspk_:0 "Kaspk'"
+ cn_lpnik:0 "Lpnik"
+ cn_maskutan:0 "Maskutan"
+ cn_khurasan:0 "Khurasan"
+ 
+ #Daylam - Shirvan - Shaki
+ cn_shamakhi:0 "Shamakhi"
+ cn_kapaghak:0 "Kapaghak"
+ cn_aghberd:0 "Aghberd"
+ cn_gargar:0 "Gargar"
+ 
+ #Daylam - Shirvan - Aran
+ cn_utik_:0 "Utik'"
+ cn_gandzak:0 "Gandzak"
+ cn_kyuropolis:0 "Kyuropolis"
+ 
+ #Daylam - Shirvan - Mugan
+ cn_paytakaran:0 "Paytakaran"
+ cn_hraqot_perozh:0 "Hraqot Perozh"
+ cn_vardanakert:0 "Vardanakert"
+ cn_hani:0 "Hani"
+ cn_pitchan:0 "Pitchan"
+ 
   #Italy
  cn_sardenya_i_corsega:0 "Sardenya i Còrsega"
  cn_sardenya_i_corsega_adj:0 "Corso-Sardenyian"
