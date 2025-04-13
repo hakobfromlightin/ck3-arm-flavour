@@ -1680,7 +1680,7 @@
  
  # Jazira - Diyarbakr
  cn_aghdznik:0 "Aghdznik"
-  
+ 
  # Jazira - Diyarbakr - Amida
  cn_amid:0 "Amid"
  cn_jermuk:0 "Jermuk"
@@ -1700,7 +1700,6 @@
  cn_agarak:0 "Agarak"
  
  # Jazira - Diyarbakr - Mayyafariqin
- cn_tigranakert:0 "Tigranakert"
  cn_jerm:0 "Jerm"
  cn_kghimar:0 "Kghimar"
  cn_zorbandon:0 "Zorbandon"
@@ -1708,7 +1707,7 @@
  # Jazira - Diyarbakr - Bakriya
  cn_sasoun:0 "Sasoun"
  cn_koghb:0 "Koghb"
- cn_arkathiokert:0 "Arkathiokert"
+ cn_artakert:0 "Artakert"
  cn_paghin:0 "Paghin"
  
  # Jazira - Kurdistan
@@ -1718,20 +1717,90 @@
  cn_arbela:0 "Arbela"
  cn_musasir:0 "Musasir"
  cn_larissa:0 "Larissa"
-  
+ 
  # Jazira - Kurdistan - Kurdistan
  cn_shirakan:0 "Shirakan"
  cn_smbataberd:0 "Smbataberd"
  cn_kartunik:0 "Kartunik"
  cn_mahkert:0 "Mahkert"
  cn_aghbak:0 "Aghbak"
-  
+ 
  # Jazira - Kurdistan - Shahrazur
  cn_sharazor:0 "Sharazor"
  cn_verin_sharazor:0 "Verin Sharazor"
  cn_tigranashen:0 "Tigranashen"
-  
-  
+ 
+ # Georgia - Tao-Klarjeti - Tao
+ cn_tayk_:0 "Tayk'"
+ cn_vokaghe:0 "Vokaghe"
+ cn_kogh:0 "Kogh"
+ 
+ # Georgia - Tao-Klarjeti - Klarjeti
+ cn_kgharjk_:0 "Kgharjk'"
+ cn_verin_javakhk_:0 "Verin Javakhk'"
+ cn_ishkhank_:0 "Ishkhank'"
+ cn_artahan:0 "Artahan"
+ 
+ # Georgia - Tao-Klarjeti - Kartli
+ cn_argvelk_:0 "Argvelk'"
+ cn_sotskhumet:0 "Sotskhumet"
+ cn_urbnisi:0 "Urbnisi"
+ cn_kaspi:0 "Kaspi"
+ 
+ # Georgia - Tao-Klarjeti - Acampse
+ cn_atenas:0 "Atenas"
+ cn_apsaros:0 "Apsaros"
+ 
+ # Georgia - Abkhazia - Abkhazia
+ cn_koghkis:0 "Koghkis"
+ cn_apkhazk_:0 "Apkhazk'"
+ cn_tskhum:0 "Tskhum"
+ cn_pitiunt:0 "Pitiunt"
+ 
+ # Georgia - Abkhazia - Odishi
+ cn_kotayis:0 "Kotayis"
+ cn_archeopolis:0 "Archeopolis"
+ cn_set:0 "Set"
+ cn_zugdid:0 "Zugdid"
+ cn_tsager:0 "Tsager"
+ 
+ # Georgia - Georgia - Svaneti
+ cn_svanetk_:0 "Svanetk'"
+ cn_kasriskar:0 "Kasriskar"
+ cn_ambrolaur:0 "Ambrolaur"
+ 
+ # Georgia - Georgia - Guria
+ cn_phasis:0 "Phasis"
+ cn_batum:0 "Batum"
+ cn_rodopolis:0 "Rodopolis"
+ cn_shorapan:0 "Shorapan"
+ 
+ # Georgia - Tbilisi
+ cn_virk_:0 "Virk'"
+ cn_gugark_:0 "Gugark'"
+ cn_tpghis:0 "Tpghis"
+ cn_javakhk_:0 "Javakhk'"
+ cn_tsurtav:0 "Tsurtav"
+ 
+ # Gerogia - Lori
+ cn_tashir:0 "Tashir"
+ cn_bolnis:0 "Bolnis"
+ cn_hunakert:0 "Hunakert"
+ 
+ # Gerogia - Kakheti
+ cn_kakhetk_:0 "Kakhetk'"
+ cn_telav:0 "Telav"
+ cn_nektes:0 "Nektes"
+ cn_gavaz:0 "Gavaz"
+ cn_kharnabuj:0 "Kharnabuj"
+ 
+ # Gerogia - Hereti
+ cn_kambejan:0 "Kambejan"
+ cn_arvan:0 "Arvan"
+ cn_getaru:0 "Getaru"
+ cn_shakashen:0 "Shakashen"
+ cn_gvgav:0 "Gvgav"
+ 
   #Italy
  cn_sardenya_i_corsega:0 "Sardenya i Còrsega"
  cn_sardenya_i_corsega_adj:0 "Corso-Sardenyian"

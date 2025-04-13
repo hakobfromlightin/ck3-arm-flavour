@@ -13613,80 +13613,148 @@ e_byzantium = {
 
 			capital = c_tao
 
+			cultural_names = {
+                name_list_armenian = cn_tayk_
+            }
+
 			c_tao = {
 				color = { 218 95 78 }
+
+				cultural_names = {
+                    name_list_armenian = cn_tayk_
+                }
 
 				b_tortomi = {
 					province = 5737
 
 					color = { 60 60 60 }
+
+					cultural_names = {
+                        name_list_armenian = cn_vokaghe
+                    }
 				}
 				b_taoskari = {
 					province = 5736
 
 					color = { 60 60 60 }
+
+					cultural_names = {
+                        name_list_armenian = cn_ishkhank_
+                    }
 				}
 				b_oltisi = {
 					province = 680
 
 					color = { 60 60 60 }
+
+					cultural_names = {
+                        name_list_armenian = cn_kogh
+                    }
 				}
 			}
 			c_klarjeti = {
 				color = { 218 95 78 }
 
+				cultural_names = {
+                    name_list_armenian = cn_kgharjk_
+                }
+
 				b_arthanuji = {
 					province = 5740
 
 					color = { 218 95 78 }
+
+					cultural_names = {
+                        name_list_armenian = cn_kgharjk_
+                    }
 				}
 				b_tmogvi = {
 					province = 5738
 
 					color = { 218 95 78 }
+
+					cultural_names = {
+                        name_list_armenian = cn_verin_javakhk_
+                    }
 				}
 				b_akhaltsikhe = {
 					province = 5739
 
 					color = { 218 95 78 }
+
+					cultural_names = {
+                        name_list_armenian = cn_ishkhank_
+                    }
 				}
 				b_artaani = {
 					province = 5741
 
 					color = { 218 95 78 }
+
+					cultural_names = {
+                        name_list_armenian = cn_artahan
+                    }
 				}
 			}
 			c_kartli = {
 				color = { 221 111 95 }
 
+				cultural_names = {
+                    name_list_armenian = cn_argvelk_
+                }
+
 				b_uplistsikhe = {
 					province = 5743
 
 					color = { 221 111 95 }
+
+					cultural_names = {
+                        name_list_armenian = cn_sotskhumet
+                    }
 				}
 				b_tskhinvali = {
 					province = 5742
 
 					color = { 221 111 95 }
+
+					cultural_names = {
+                        name_list_armenian = cn_urbnisi
+                    }
 				}
 				b_gori = {
 					province = 679
 
 					color = { 221 111 95 }
+
+					cultural_names = {
+                        name_list_armenian = cn_kaspi
+                    }
 				}
 			}
 			c_acampse = {
 				color = { 196 85 70 }
 
+				cultural_names = {
+                    name_list_armenian = cn_atenas
+                }
+
 				b_archabis = {
 					province = 5696
 
 					color = { 196 85 70 }
+
+					cultural_names = {
+                        name_list_armenian = cn_atenas
+                    }
 				}
 				b_petra = {
 					province = 5697
 
 					color = { 196 85 70 }
+
+					cultural_names = {
+                        name_list_armenian = cn_apsaros
+                    }
 				}
 			}
 		}
@@ -13696,13 +13764,25 @@ e_byzantium = {
 
 			capital = c_abkhazia # Tskhumi
 
+			cultural_names = {
+                name_list_armenian = cn_koghkis
+            }
+
 			c_abkhazia = {
 				color = { 213 75 56 }
+
+				cultural_names = {
+                    name_list_armenian = cn_apkhazk_
+                }
 
 				b_tskhumi = {
 					province = 5746
 
 					color = { 213 75 56 }
+
+					cultural_names = {
+                        name_list_armenian = cn_tskhum
+                    }
 				}
 				b_nicopsia = {
 					province = 600
@@ -13713,6 +13793,10 @@ e_byzantium = {
 					province = 5744
 
 					color = { 213 75 56 }
+
+					cultural_names = {
+                        name_list_armenian = cn_pitiunt
+                    }
 				}
 				b_anacopia = {
 					province = 5745
@@ -13723,44 +13807,80 @@ e_byzantium = {
 			c_odishi = {
 				color = { 191 67 50 }
 
+                cultural_names = {
+                    name_list_armenian = cn_koghkis
+                }
+
 				b_kutaisi = {
 					province = 601
 
 					color = { 191 67 50 }
+
+					cultural_names = {
+                        name_list_armenian = cn_kotayis
+                    }
 				}
 				b_gudakva = {
 					province = 5747
 
 					color = { 191 67 50 }
+
+					cultural_names = {
+                        name_list_armenian = cn_archeopolis
+                    }
 				}
 				b_seti = {
 					province = 5748
 
 					color = { 191 67 50 }
+
+					cultural_names = {
+                        name_list_armenian = cn_set
+                    }
 				}
 				b_zugdidi = {
 					province = 5749
 
 					color = { 191 67 50 }
+
+					cultural_names = {
+                        name_list_armenian = cn_zugdid
+                    }
 				}
 				b_tsageri = {
 					province = 5750
 
 					color = { 191 67 50 }
+
+					cultural_names = {
+                        name_list_armenian = cn_tsager
+                    }
 				}
 			}
 			c_svaneti = {
 				color = { 217 93 75 }
 
+				cultural_names = {
+                    name_list_armenian = cn_svanetk_
+                }
+
 				b_kasriskari = {
 					province = 5752
 
 					color = { 217 93 75 }
+
+					cultural_names = {
+                        name_list_armenian = cn_kasriskar
+                    }
 				}
 				b_ambrolauri = {
 					province = 5751
 
 					color = { 217 93 75 }
+
+					cultural_names = {
+                        name_list_armenian = cn_ambrolaur
+                    }
 				}
 				b_kvara = {
 					province = 5753
@@ -13771,25 +13891,45 @@ e_byzantium = {
 			c_guria = {
 				color = { 221 110 95 }
 
+				cultural_names = {
+                    name_list_armenian = cn_phasis
+                }
+
 				b_batumi = {
 					province = 677
 
 					color = { 221 110 95 }
+
+					cultural_names = {
+                        name_list_armenian = cn_batum
+                    }
 				}
 				b_poti = {
 					province = 5754
 
 					color = { 221 110 95 }
+
+					cultural_names = {
+                        name_list_armenian = cn_phasis
+                    }
 				}
 				b_vartsikhe = {
 					province = 5756
 
 					color = { 221 110 95 }
+
+					cultural_names = {
+                        name_list_armenian = cn_rodopolis
+                    }
 				}
 				b_shorapann = {
 					province = 5757
 
 					color = { 221 110 95 }
+
+					cultural_names = {
+                        name_list_armenian = cn_shorapan
+                    }
 				}
 			}
 		}
@@ -13799,56 +13939,104 @@ e_byzantium = {
 
 			capital = c_tbilisi # Tbilisi
 
+			cultural_names = {
+                name_list_armenian = cn_virk_
+            }
+
 			c_tbilisi = {
 				color = { 209 56 35 }
+
+				cultural_names = {
+                    name_list_armenian = cn_gugark_
+                }
 
 				b_tbilisi = {
 					province = 5759
 
 					color = { 209 56 35 }
+
+					cultural_names = {
+                        name_list_armenian = cn_tpghis
+                    }
 				}
 				b_dmanisi = {
 					province = 5758
 
 					color = { 209 56 35 }
+
+					cultural_names = {
+                        name_list_armenian = cn_javakhk_
+                    }
 				}
 				b_rustavi = {
 					province = 5760
 
 					color = { 209 56 35 }
+
+					cultural_names = {
+                        name_list_armenian = cn_tsurtav
+                    }
 				}
 			}
 			c_lori = {
 				color = { 213 75 56 }
 
+				cultural_names = {
+                    name_list_armenian = cn_tashir
+                }
+
 				b_lori = {
 					province = 1013
 
 					color = { 213 75 56 }
+
+					cultural_names = {
+                        name_list_armenian = cn_tashir
+                    }
 				}
 				b_bolnisi = {
 					province = 5761
 
 					color = { 213 75 56 }
+
+					cultural_names = {
+                        name_list_armenian = cn_bolnis
+                    }
 				}
 				b_kayan = {
 					province = 5762
 
 					color = { 213 75 56 }
+
+					cultural_names = {
+                        name_list_armenian = cn_hunakert
+                    }
 				}
 			}
 			c_kakheti = {
 				color = { 218 95 78 }
 
+				cultural_names = {
+                    name_list_armenian = cn_kakhetk_
+                }
+
 				b_telavi = {
 					province = 676
 
 					color = { 218 95 78 }
+
+					cultural_names = {
+                        name_list_armenian = cn_telav
+                    }
 				}
 				b_nektesi = {
 					province = 5763
 
 					color = { 218 95 78 }
+
+					cultural_names = {
+                        name_list_armenian = cn_nektes
+                    }
 				}
 				b_mtskheta = {
 					province = 5764
@@ -13859,11 +14047,19 @@ e_byzantium = {
 					province = 5765
 
 					color = { 218 95 78 }
+
+					cultural_names = {
+                        name_list_armenian = cn_gavaz
+                    }
 				}
 				b_kharnabuji = {
 					province = 5766
 
 					color = { 218 95 78 }
+
+					cultural_names = {
+                        name_list_armenian = cn_kharnabuj
+                    }
 				}
 				b_ujarma = {
 					province = 5767
@@ -13874,25 +14070,45 @@ e_byzantium = {
 			c_hereti = {
 				color = { 222 115 101 }
 
+				cultural_names = {
+                    name_list_armenian = cn_kambejan
+                }
+
 				b_zaqatala = {
 					province = 5768
 
 					color = { 222 115 101 }
+
+					cultural_names = {
+                        name_list_armenian = cn_arvan
+                    }
 				}
 				b_ghisi = {
 					province = 5769
 
 					color = { 222 115 101 }
+
+					cultural_names = {
+                        name_list_armenian = cn_getaru
+                    }
 				}
 				b_dedoplitskhara = {
 					province = 5770
 
 					color = { 222 115 101 }
+
+					cultural_names = {
+                        name_list_armenian = cn_shakashen
+                    }
 				}
 				b_nukhpata = {
 					province = 673
 
 					color = { 222 115 101 }
+
+					cultural_names = {
+                        name_list_armenian = cn_gvgav
+                    }
 				}
 			}
 		}
@@ -39310,7 +39526,7 @@ e_persia = {
 					color = { 192 80 12 }
 
 					cultural_names = {
-                        name_list_armenian = cn_arkathiokert
+                        name_list_armenian = cn_artakert
                     }
 				}
 				b_shimshat = {
