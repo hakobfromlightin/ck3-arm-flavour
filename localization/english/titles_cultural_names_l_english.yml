@@ -1581,8 +1581,8 @@
  cn_malat_ya_adj:0 "Malat'yan"
  cn_elazig:0 "Elazığ"
  cn_elazig_adj:0 "Elazıği"
- cn_arsamasat:0 "Aršamašat"
- cn_arsamasat_adj:0 "Aršamašati"
+ cn_arsamasat:0 "Arsamasat"
+ cn_arsamasat_adj:0 "Arsamasati"
  cn_akcadag:0 "Akcadağ"
  cn_akcadag_adj:0 "Akcadaği"
  cn_erzurum:0 "Erzurum"
@@ -1626,9 +1626,6 @@
  cn_erivan:0 "Erivan"
  cn_erivan_adj:0 "Erivani"
  
-
- #Armenia - Mesopotamia
- cn_tsopk:0 "Tsopk"
  
  #Armenia - Mesopotamia - Theodosopolis
  cn_jerma:0 "Jerma"
@@ -1638,6 +1635,7 @@
  cn_arke:0 "Arke"
  
  #Armenia - Mesopotamia - Mesopotamia
+ cn_tsopk:0 "Tsopk"
  cn_taron:0 "Taron"
  
  #Armenia - Mesopotamia
@@ -1709,9 +1707,6 @@
  cn_koghb:0 "Koghb"
  cn_artakert:0 "Artakert"
  cn_paghin:0 "Paghin"
- 
- # Jazira - Kurdistan
- cn_adiabaden:0 "Adiabaden"
  
  # Jazira - Kurdistan - Irbil
  cn_arbela:0 "Arbela"
@@ -1866,6 +1861,98 @@
  cn_hani:0 "Hani"
  cn_pitchan:0 "Pitchan"
  
+ #Syria - Edessa - Edessa
+ cn_edesia:0 "Edesia"
+ cn_berdadzor:0 "Berdadzor"
+ 
+ #Syria - Edessa - Samosata
+ cn_samosat:0 "Samosat"
+ cn_perea:0 "Perea"
+ 
+ #Syria - Edessa - Marash
+ cn_hromkla:0 "Hromkla"
+ cn_kghesun:0 "Kghesun"
+ 
+ #Syria - Edessa - Aintab
+ cn_aintap:0 "Aintap"
+ cn_basharnots:0 "Basharnots"
+ cn_karkemish:0 "Karkemish"
+ cn_malis:0 "Malis"
+ 
+ #Syria - Antioch - Antiocheia
+ cn_antioch:0 "Antioch"
+ cn_selevkia_pieria:0 "Selevkia Pieria"
+ cn_latik:0 "Latik"
+ cn_gabala:0 "Gabala"
+ 
+ #Syria - Antioch - Alexandretta
+ cn_alexandrek:0 "Alexandrek"
+ cn_platana:0 "Platana"
+ 
+ #Anatolia - Cilicia - Cilicia
+ cn_tarson:0 "Tarson"
+ cn_msis:0 "Msis"
+ cn_mallos:0 "Mallos"
+ cn_anazarba:0 "Anazarba"
+ cn_sis:0 "Sis"
+ 
+ #Anatolia - Cilicia - Seleucia
+ cn_selevkia:0 "Selevkia"
+ cn_korikos:0 "Korikos"
+ cn_qarqara:0 "Qarqara"
+ cn_sole:0 "Sole"
+ 
+ #Anatolia - Cilicia - Lycandus
+ cn_bardzr_kilikia:0 "Bardzr Kilikia"
+ cn_vahka:0 "Vahka"
+ cn_komana:0 "Komana"
+ cn_arabisos:0 "Arabisos"
+ cn_kars:0 "Kars"
+ 
+ #Anatolia - Cilicia - Tall Hamid
+ cn_harun:0 "Harun"
+ 
+ #Pontus - Chaldia - Koloneia
+ cn_poqr_hayk:0 "Poqr Hayk"
+ cn_trapizon:0 "Trapizon"
+ cn_rizon:0 "Rizon"
+ cn_verin_sper:0 "Verin Sper"
+ cn_baberd:0 "Baberd"
+ cn_erznca:0 "Erznca"
+ 
+ #Pontus - Chaldia - Cerasus
+ cn_kerasun:0 "Kerasun"
+ cn_enoe:0 "Enoe"
+ cn_polemonion:0 "Polemonion"
+ cn_tripolis:0 "Tripolis"
+ 
+ #Pontus - Chaldia - Colonea
+ cn_kolonia:0 "Kolonia"
+ cn_nor_kesaria:0 "Nor Kesaria"
+ cn_ipsele:0 "Ipsele"
+ 
+ #Pontus - Chaldia - Satala
+ cn_satagh:0 "Satagh"
+ cn_eriza:0 "Eriza"
+ cn_kerchanis:0 "Kerchanis"
+ cn_teprik:0 "Teprik"
+  
+ #Pontus - Sebasteia - Sebasteia
+ cn_sebastia:0 "Sebastia"
+ cn_karana:0 "Karana"
+ cn_pedakhtoe:0 "Pedakhtoe"
+ 
+ #Pontus - Sebasteia - Azysia
+ cn_gamirk:0 "Gamirk"
+ cn_larisa:0 "Larisa"
+ cn_spunion:0 "Spunion"
+ cn_garun:0 "Garun"
+ cn_voromandos:0 "Voromandos"
+ 
+ #Pontus - Sebasteia - Ablastha
+ cn_plasta:0 "Plasta"
+ cn_dandaksene:0 "Dandaksene"
+
   #Italy
  cn_sardenya_i_corsega:0 "Sardenya i Còrsega"
  cn_sardenya_i_corsega_adj:0 "Corso-Sardenyian"
